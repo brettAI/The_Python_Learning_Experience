@@ -23,6 +23,18 @@ Code specific to this ultimate goal will be stored in the Xybele repository.
 
 The following assumptions (guidelines) will be used to facilitate and direct my learning.
 
+### Development Environment
+
+* [Microsoft Visual Studio Code](https://code.visualstudio.com/) is my editor of choice. In addition to using VS Code, the following extensions will be used:
+  * Python by Microsoft
+  * markdownlint - Provide realtime lint advise for Markdown files
+
+## Areas of Focus
+
 ## Online/Offline Resources
 
 * [Videos](Learning/VIDEOS.md)
+* [Online Tutorials]
+* [Books]
+
+## Sample Projects
